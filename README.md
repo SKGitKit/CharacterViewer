@@ -22,7 +22,7 @@ You can also build and run the app from within Android Studio by selecting the a
 
 ## ScreenShots
 
-
+<img src="https://user-images.githubusercontent.com/123601466/234559470-1ee83d95-4e94-43aa-8987-43103c0503ca.png" alt="Example Image">
 
 ## Architecture
 
