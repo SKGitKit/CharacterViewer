@@ -15,7 +15,6 @@ git clone https://github.com/SKGitKit/CharacterViewer.git
 
 The app has two flavors: `simpson` and `wire`. Each is for a specific show but they each have a shared codebase.
 
-To build and run the `list` flavor of the app, you can use the following command:
 
 
 You can also build and run the app from within Android Studio by selecting the appropriate build variant from the Build Variants panel.
