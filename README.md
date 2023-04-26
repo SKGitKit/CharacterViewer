@@ -23,6 +23,11 @@ You can also build and run the app from within Android Studio by selecting the a
 ## ScreenShots
 
 <img src="https://user-images.githubusercontent.com/123601466/234559470-1ee83d95-4e94-43aa-8987-43103c0503ca.png" alt="Example Image">
+<img width="451" alt="phone_detail_Vertical" src="https://user-images.githubusercontent.com/123601466/234559752-0b8feb0d-00de-493a-b1b4-5c910a3bcc58.png">
+<img width="919" alt="phone_search_horizontal" src="https://user-images.githubusercontent.com/123601466/234559757-a5c35eba-47e9-46f1-bf72-de75738f8500.png">
+<img width="453" alt="phone_search_Vertical" src="https://user-images.githubusercontent.com/123601466/234559758-40d7976b-7063-4628-971e-cf0d08eca549.png">
+<img width="1005" alt="Tablet_Horizontal" src="https://user-images.githubusercontent.com/123601466/234559760-d6eee889-709f-4f63-af45-1743784730ab.png">
+<img width="807" alt="Tablet_Vertical" src="https://user-images.githubusercontent.com/123601466/234559762-96fc0bf8-2580-4dfb-820c-6303f5b2fbe7.png">
 
 ## Architecture
 
